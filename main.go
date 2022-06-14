@@ -9,7 +9,7 @@ const (
 	pearCount  = 8
 )
 
-var myMoney int = 23
+var myMoney float64 = 23
 
 func main() {
 	buyApple := aplleCount * applePrice
